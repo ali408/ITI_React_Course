@@ -2,6 +2,8 @@
 
 # Day 01: https://meek-belekoy-79cfca.netlify.app/
 
+# Day 02: https://ornate-naiad-1871ab.netlify.app/
+
 
 # Getting Started with Create React App
 
