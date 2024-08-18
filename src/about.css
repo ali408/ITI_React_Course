@@ -1,0 +1,9 @@
+.about {
+    padding: 96px 0;
+}
+
+.about p {
+    line-height: 1.6;
+    font-size: 18px;
+    color: #777;
+}

@@ -1,0 +1,33 @@
+.skill {
+    width: 450px;
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.skill p {
+    width: 120px;
+    margin: 0;
+    background-color: #7e7e7e;
+    padding: 12px;
+}
+
+.box {
+    width: 330px;
+    height: 48px;
+    flex: 1;
+    position: relative;
+    background-color: #fff;
+}
+
+.bb {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    padding-left: 12px;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 50%;
+    background-color: rgb(173, 173, 173);
+}
