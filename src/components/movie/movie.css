@@ -1,0 +1,31 @@
+.movie-box {
+    overflow: hidden;
+}
+
+.movie-box img {
+    width: 100%;
+    transition: all .2s;
+}
+
+.movie-box h3 {
+    font-size: 14px;
+}
+
+.link-movie {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+}
+
+.movie-box:hover img {
+    transform: scale(1.02);
+}
+
+.fav-btn {
+    background: none;
+    outline: none;
+    border: none;
+    display: block;
+    font-size: 24px;
+    color: orangered;
+}

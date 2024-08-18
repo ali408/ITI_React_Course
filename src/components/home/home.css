@@ -1,0 +1,22 @@
+.home {
+    padding-top: 30px;
+    padding-bottom: 90px;
+}
+
+.search-input {
+    display: block;
+    width: 850px;
+    margin: 0 auto 40px auto;
+    border-radius: 8px;
+    background-color: #444;
+    padding: 10px;
+    border: none;
+    outline: none;
+    color: #fff;
+    caret-color: #fff;
+    border: 1px solid transparent;
+}
+
+.search-input:focus {
+    border-color: orangered;
+}
