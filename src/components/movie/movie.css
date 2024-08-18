@@ -1,0 +1,22 @@
+.movie-box {
+    overflow: hidden;
+}
+
+.movie-box img {
+    width: 100%;
+    transition: all .2s;
+}
+
+.movie-box h3 {
+    font-size: 15px;
+}
+
+.link-movie {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+}
+
+.movie-box:hover img {
+    transform: scale(1.02);
+}
